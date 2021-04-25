@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to the second slide where there is a line!"
 ---
-"modo-doggo text"
-Use the left arrow to go back!
+"-------------------------------------------------------"
