@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Welcome to the second slide where there is a line!"
+title: "Welcome to the second slide where there is nothing!"
 ---
-"-------------------------------------------------------"
+
